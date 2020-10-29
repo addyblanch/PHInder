@@ -4,7 +4,7 @@ Idenify putative interactions between bacteria and the host using Metatranscript
 
 Matching analysis as a single piece of code that will look for correlations between two data sets
 that come from the same samples. We are particularly thinking about bacteria and gene data from
-the same set of individuals.The code only looks at presence/absence rather than abundance.
+the same set of individuals.
 
 Requires two data frames (output from a tool such as Salmon)
 
